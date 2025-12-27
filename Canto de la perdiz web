@@ -1,42 +1,212 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El Canto de la Perdiz | Apartamentos rurales en Villafranca del Bierzo</title>
+<meta name="description" content="Apartamentos rurales El Canto de la Perdiz en Villafranca del Bierzo. Alojamiento para 4 y 6 personas. Reservas por teléfono y WhatsApp.">
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        color: #333;
+        line-height: 1.6;
+    }
+    header {
+        background: #567d46;
+        color: white;
+        padding: 30px 20px;
+        text-align: center;
+    }
+    nav a {
+        margin: 0 12px;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    section {
+        padding: 40px 20px;
+        max-width: 1100px;
+        margin: auto;
+    }
+    h2 {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .apart {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        width: 250px;
+        text-align: center;
+    }
+    .card img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .btn {
+        display: inline-block;
+        background: #567d46;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 4px;
+        margin-top: 10px;
+    }
+    footer {
+        background: #eee;
+        text-align: center;
+        padding: 20px;
+        font-size: 0.9em;
+    }
+
+    /* Botón flotante WhatsApp */
+    .whatsapp {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: #25D366;
+        color: white;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        font-size: 32px;
+        text-align: center;
+        line-height: 60px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        text-decoration: none;
+        z-index: 1000;
+    }
+    .whatsapp:hover {
+        background-color: #1ebe5d;
+    }
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>El Canto de la Perdiz</h1>
+    <p>Apartamentos rurales en Villafranca del Bierzo (León)</p>
+    <nav>
+        <a href="#apartamentos">Apartamentos</a>
+        <a href="#tarifas">Tarifas</a>
+        <a href="#entorno">Entorno</a>
+        <a href="#contacto">Contacto</a>
+        <a href="#legal">Aviso legal</a>
+    </nav>
+</header>
+
+<section id="apartamentos">
+    <h2>Apartamentos</h2>
+    <div class="apart">
+        <div class="card">
+            <h3>Apartamento (4 personas)</h3>
+            <img src="foto1.jpg" alt="Apartamento para 4 personas">
+            <p>Acogedor apartamento ideal para familias o parejas.</p>
+        </div>
+        <div class="card">
+            <h3>Apartamento (4 personas)</h3>
+            <img src="foto2.jpg" alt="Apartamento para 4 personas">
+            <p>Confort y tranquilidad en pleno Bierzo.</p>
+        </div>
+        <div class="card">
+            <h3>Apartamento (6 personas)</h3>
+            <img src="foto3.jpg" alt="Apartamento para 6 personas">
+            <p>Amplio y cómodo, perfecto para grupos.</p>
+        </div>
+        <div class="card">
+            <h3>Apartamento (6 personas)</h3>
+            <img src="foto4.jpg" alt="Apartamento para 6 personas">
+            <p>Espacio y comodidad para toda la familia.</p>
+        </div>
+    </div>
+</section>
+
+<section id="tarifas">
+    <h2>Tarifas</h2>
+    <p style="text-align:center;">Precios orientativos por noche. Para estancias especiales, consúltanos.</p>
+    <div class="apart">
+        <div class="card">
+            <h3>Apartamentos 4 personas</h3>
+            <p><strong>Desde XX € / noche</strong></p>
+        </div>
+        <div class="card">
+            <h3>Apartamentos 6 personas</h3>
+            <p><strong>Desde XX € / noche</strong></p>
+        </div>
+    </div>
+</section>
+
+<section id="entorno">
+    <h2>El entorno</h2>
+    <p>
+        Villafranca del Bierzo es un enclave único rodeado de naturaleza, viñedos y patrimonio histórico.
+        Ideal para senderismo, turismo rural y disfrutar de la gastronomía berciana.
+    </p>
+</section>
+
+<section id="contacto">
+    <h2>Contacto y Reservas</h2>
+
+    <p><strong>📍 Dirección:</strong><br>
+    Calle Trivijano 7<br>
+    Villafranca del Bierzo (León)</p>
+
+    <p><strong>📞 Teléfono / WhatsApp:</strong><br>
+    6XX XXX XXX</p>
+
+    <p><strong>✉️ Email:</strong><br>
+    tu-email@example.com</p>
+
+    <a class="btn" href="https://wa.me/346XXXXXXXX?text=Hola,%20quiero%20información%20para%20reservar%20en%20El%20Canto%20de%20la%20Perdiz" target="_blank">
+        💬 Reservar por WhatsApp
+    </a>
+
+    <br><br>
+
+    <a class="btn" href="https://www.google.com/maps/search/?api=1&query=Calle+Trivijano+7+Villafranca+del+Bierzo+León" target="_blank">
+        📍 Ver ubicación en Google Maps
+    </a>
+</section>
+
 <section id="legal">
     <h2>Aviso Legal y Política de Privacidad</h2>
 
-    <h3>Datos del titular</h3>
+    <p><strong>Titular:</strong> El Canto de la Perdiz<br>
+    <strong>Dirección:</strong> Calle Trivijano 7, Villafranca del Bierzo (León)<br>
+    <strong>Teléfono:</strong> 6XX XXX XXX<br>
+    <strong>Email:</strong> tu-email@example.com</p>
+
     <p>
-        <strong>Nombre del alojamiento:</strong> El Canto de la Perdiz<br>
-        <strong>Dirección:</strong> Calle Trivijano 7, Villafranca del Bierzo (León)<br>
-        <strong>Teléfono:</strong> 6XX XXX XXX<br>
-        <strong>Email:</strong> tu-email@example.com
+        Este sitio web tiene como finalidad ofrecer información sobre el alojamiento rural
+        El Canto de la Perdiz y facilitar el contacto para la gestión de reservas.
     </p>
 
-    <h3>Objeto</h3>
     <p>
-        El presente sitio web tiene como finalidad ofrecer información sobre los apartamentos rurales 
-        <strong>El Canto de la Perdiz</strong>, así como facilitar el contacto para la solicitud de reservas.
-    </p>
-
-    <h3>Propiedad intelectual</h3>
-    <p>
-        Todos los contenidos de este sitio web (textos, imágenes, logotipos, diseño) son propiedad del titular,
-        quedando prohibida su reproducción total o parcial sin autorización expresa.
-    </p>
-
-    <h3>Responsabilidad</h3>
-    <p>
-        El titular no se hace responsable del uso indebido de la información contenida en esta web ni de los 
-        posibles errores u omisiones en los contenidos.
-    </p>
-
-    <h3>Protección de datos</h3>
-    <p>
-        Los datos personales facilitados por los usuarios a través del teléfono, WhatsApp o correo electrónico
-        serán utilizados únicamente para atender consultas y gestionar reservas.  
-        No se cederán datos a terceros salvo obligación legal.
-    </p>
-
-    <h3>Derechos del usuario</h3>
-    <p>
-        El usuario puede ejercer sus derechos de acceso, rectificación o supresión de sus datos personales
-        contactando a través del correo electrónico indicado.
+        Los datos personales facilitados por teléfono, WhatsApp o correo electrónico se utilizarán
+        únicamente para atender consultas y gestionar reservas, y no se cederán a terceros.
     </p>
 </section>
+
+<footer>
+    <p>© 2025 El Canto de la Perdiz — Todos los derechos reservados</p>
+</footer>
+
+<!-- Botón flotante WhatsApp -->
+<a href="https://wa.me/346XXXXXXXX?text=Hola,%20quiero%20información%20para%20reservar%20en%20El%20Canto%20de%20la%20Perdiz"
+   class="whatsapp"
+   target="_blank"
+   aria-label="Contactar por WhatsApp">
+   💬
+</a>
+
+</body>
+</html>
