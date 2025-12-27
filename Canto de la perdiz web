@@ -3,90 +3,102 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>El Canto de la Perdiz | Apartamentos rurales en Villafranca del Bierzo</title>
-<meta name="description" content="Apartamentos rurales El Canto de la Perdiz en Villafranca del Bierzo. Alojamiento para 4 y 6 personas. Reservas por teléfono y WhatsApp.">
+
+<meta name="description" content="El Canto de la Perdiz. Apartamentos rurales en Villafranca del Bierzo (León) para 4 y 6 personas. Reservas por teléfono y WhatsApp.">
 
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        color: #333;
-        line-height: 1.6;
-    }
-    header {
-        background: #567d46;
-        color: white;
-        padding: 30px 20px;
-        text-align: center;
-    }
-    nav a {
-        margin: 0 12px;
-        color: white;
-        text-decoration: none;
-        font-weight: bold;
-    }
-    section {
-        padding: 40px 20px;
-        max-width: 1100px;
-        margin: auto;
-    }
-    h2 {
-        text-align: center;
-        margin-bottom: 25px;
-    }
-    .apart {
-        display: flex;
-        gap: 20px;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    .card {
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        padding: 15px;
-        width: 250px;
-        text-align: center;
-    }
-    .card img {
-        width: 100%;
-        border-radius: 6px;
-    }
-    .btn {
-        display: inline-block;
-        background: #567d46;
-        color: white;
-        padding: 10px 20px;
-        text-decoration: none;
-        border-radius: 4px;
-        margin-top: 10px;
-    }
-    footer {
-        background: #eee;
-        text-align: center;
-        padding: 20px;
-        font-size: 0.9em;
-    }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: #333;
+    line-height: 1.6;
+}
 
-    /* Botón flotante WhatsApp */
-    .whatsapp {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        background-color: #25D366;
-        color: white;
-        width: 60px;
-        height: 60px;
-        border-radius: 50%;
-        font-size: 32px;
-        text-align: center;
-        line-height: 60px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-        text-decoration: none;
-        z-index: 1000;
-    }
-    .whatsapp:hover {
-        background-color: #1ebe5d;
-    }
+header {
+    background: #567d46;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 12px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px 20px;
+    max-width: 1100px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.apart {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.btn {
+    display: inline-block;
+    background: #567d46;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+footer {
+    background: #eee;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+}
+
+/* Botón flotante WhatsApp */
+.whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 32px;
+    text-align: center;
+    line-height: 60px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    text-decoration: none;
+    z-index: 1000;
+}
+
+.whatsapp:hover {
+    background-color: #1ebe5d;
+}
 </style>
 </head>
 
@@ -110,34 +122,41 @@
         <div class="card">
             <h3>Apartamento (4 personas)</h3>
             <img src="foto1.jpg" alt="Apartamento para 4 personas">
-            <p>Acogedor apartamento ideal para familias o parejas.</p>
+            <p>Apartamento acogedor ideal para parejas o familias.</p>
         </div>
+
         <div class="card">
             <h3>Apartamento (4 personas)</h3>
             <img src="foto2.jpg" alt="Apartamento para 4 personas">
-            <p>Confort y tranquilidad en pleno Bierzo.</p>
+            <p>Comodidad y tranquilidad en pleno Bierzo.</p>
         </div>
+
         <div class="card">
             <h3>Apartamento (6 personas)</h3>
             <img src="foto3.jpg" alt="Apartamento para 6 personas">
-            <p>Amplio y cómodo, perfecto para grupos.</p>
+            <p>Amplio, cómodo y perfecto para grupos.</p>
         </div>
+
         <div class="card">
             <h3>Apartamento (6 personas)</h3>
             <img src="foto4.jpg" alt="Apartamento para 6 personas">
-            <p>Espacio y comodidad para toda la familia.</p>
+            <p>Espacio ideal para disfrutar en familia.</p>
         </div>
     </div>
 </section>
 
 <section id="tarifas">
     <h2>Tarifas</h2>
-    <p style="text-align:center;">Precios orientativos por noche. Para estancias especiales, consúltanos.</p>
+    <p style="text-align:center;">
+        Precios orientativos por noche. Para estancias largas o temporadas especiales, consúltanos.
+    </p>
+
     <div class="apart">
         <div class="card">
             <h3>Apartamentos 4 personas</h3>
             <p><strong>Desde XX € / noche</strong></p>
         </div>
+
         <div class="card">
             <h3>Apartamentos 6 personas</h3>
             <p><strong>Desde XX € / noche</strong></p>
@@ -148,8 +167,9 @@
 <section id="entorno">
     <h2>El entorno</h2>
     <p>
-        Villafranca del Bierzo es un enclave único rodeado de naturaleza, viñedos y patrimonio histórico.
-        Ideal para senderismo, turismo rural y disfrutar de la gastronomía berciana.
+        Villafranca del Bierzo es un enclave privilegiado rodeado de naturaleza,
+        viñedos y patrimonio histórico. Ideal para senderismo, turismo rural
+        y disfrutar de la gastronomía berciana.
     </p>
 </section>
 
@@ -166,13 +186,17 @@
     <p><strong>✉️ Email:</strong><br>
     tu-email@example.com</p>
 
-    <a class="btn" href="https://wa.me/346XXXXXXXX?text=Hola,%20quiero%20información%20para%20reservar%20en%20El%20Canto%20de%20la%20Perdiz" target="_blank">
+    <a class="btn"
+       href="https://wa.me/346XXXXXXXX?text=Hola,%20quiero%20información%20para%20reservar%20en%20El%20Canto%20de%20la%20Perdiz"
+       target="_blank">
         💬 Reservar por WhatsApp
     </a>
 
     <br><br>
 
-    <a class="btn" href="https://www.google.com/maps/search/?api=1&query=Calle+Trivijano+7+Villafranca+del+Bierzo+León" target="_blank">
+    <a class="btn"
+       href="https://www.google.com/maps/search/?api=1&query=Calle+Trivijano+7+Villafranca+del+Bierzo+León"
+       target="_blank">
         📍 Ver ubicación en Google Maps
     </a>
 </section>
@@ -180,10 +204,12 @@
 <section id="legal">
     <h2>Aviso Legal y Política de Privacidad</h2>
 
-    <p><strong>Titular:</strong> El Canto de la Perdiz<br>
-    <strong>Dirección:</strong> Calle Trivijano 7, Villafranca del Bierzo (León)<br>
-    <strong>Teléfono:</strong> 6XX XXX XXX<br>
-    <strong>Email:</strong> tu-email@example.com</p>
+    <p>
+        <strong>Titular:</strong> El Canto de la Perdiz<br>
+        <strong>Dirección:</strong> Calle Trivijano 7, Villafranca del Bierzo (León)<br>
+        <strong>Teléfono:</strong> 6XX XXX XXX<br>
+        <strong>Email:</strong> tu-email@example.com
+    </p>
 
     <p>
         Este sitio web tiene como finalidad ofrecer información sobre el alojamiento rural
@@ -191,8 +217,9 @@
     </p>
 
     <p>
-        Los datos personales facilitados por teléfono, WhatsApp o correo electrónico se utilizarán
-        únicamente para atender consultas y gestionar reservas, y no se cederán a terceros.
+        Los datos personales facilitados por teléfono, WhatsApp o correo electrónico
+        se utilizarán únicamente para atender consultas y gestionar reservas.
+        No se cederán a terceros.
     </p>
 </section>
 
@@ -200,7 +227,6 @@
     <p>© 2025 El Canto de la Perdiz — Todos los derechos reservados</p>
 </footer>
 
-<!-- Botón flotante WhatsApp -->
 <a href="https://wa.me/346XXXXXXXX?text=Hola,%20quiero%20información%20para%20reservar%20en%20El%20Canto%20de%20la%20Perdiz"
    class="whatsapp"
    target="_blank"
