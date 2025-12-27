@@ -1,0 +1,42 @@
+<section id="legal">
+    <h2>Aviso Legal y Política de Privacidad</h2>
+
+    <h3>Datos del titular</h3>
+    <p>
+        <strong>Nombre del alojamiento:</strong> El Canto de la Perdiz<br>
+        <strong>Dirección:</strong> Calle Trivijano 7, Villafranca del Bierzo (León)<br>
+        <strong>Teléfono:</strong> 6XX XXX XXX<br>
+        <strong>Email:</strong> tu-email@example.com
+    </p>
+
+    <h3>Objeto</h3>
+    <p>
+        El presente sitio web tiene como finalidad ofrecer información sobre los apartamentos rurales 
+        <strong>El Canto de la Perdiz</strong>, así como facilitar el contacto para la solicitud de reservas.
+    </p>
+
+    <h3>Propiedad intelectual</h3>
+    <p>
+        Todos los contenidos de este sitio web (textos, imágenes, logotipos, diseño) son propiedad del titular,
+        quedando prohibida su reproducción total o parcial sin autorización expresa.
+    </p>
+
+    <h3>Responsabilidad</h3>
+    <p>
+        El titular no se hace responsable del uso indebido de la información contenida en esta web ni de los 
+        posibles errores u omisiones en los contenidos.
+    </p>
+
+    <h3>Protección de datos</h3>
+    <p>
+        Los datos personales facilitados por los usuarios a través del teléfono, WhatsApp o correo electrónico
+        serán utilizados únicamente para atender consultas y gestionar reservas.  
+        No se cederán datos a terceros salvo obligación legal.
+    </p>
+
+    <h3>Derechos del usuario</h3>
+    <p>
+        El usuario puede ejercer sus derechos de acceso, rectificación o supresión de sus datos personales
+        contactando a través del correo electrónico indicado.
+    </p>
+</section>
